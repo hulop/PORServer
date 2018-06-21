@@ -1,0 +1,18 @@
+db: "por"
+host: "localhost"
+port: 27017
+redis_host: "localhost"
+redis_port: 6000
+upload_dir: ./data/POR_DATASET/images
+model_dir: ./data/POR_DATASET/models
+inference_dir: ./data/POR_DATASET/inference
+deleted_image_dir: ./data/POR_DATASET/deleted_images
+unknown_dir: ./data/POR_UNKNOWN_DATASET
+pretrained_dir: ./pretrained_models
+tensorflow_dir: ../opt/tensorflow-1.4.1
+network_model: "inception-v3"
+apns_settings:
+ - apns_topic: "hulop.POR"
+   apns_use_sandbox: True
+   apns_key_file: ./apns_key/CertificatesPOR.pem
+log_detail: True
