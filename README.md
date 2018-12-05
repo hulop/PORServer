@@ -8,3 +8,10 @@ Server side code for Personal Object Recognizer
 - [Celery version 4.1.0](https://github.com/celery/celery) (BSD License)
 - [Celery Once version 1.2.0](https://github.com/cameronmaske/celery-once) (BSD License)
 - [APNS/2 version 0.3.0](https://github.com/sideshow/apns2) (MIT License)
+
+----
+## About
+[About HULOP](https://github.com/hulop/00Readme)
+
+## License
+[MIT](http://opensource.org/licenses/MIT)
